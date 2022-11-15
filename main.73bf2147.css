@@ -87,7 +87,7 @@ gpsgate-remote-app .gps-gate th {
     @import"https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"
 } */
 
-integration-test .card {
+.card {
     background-color: red;
     width: 100% !important;
 }
