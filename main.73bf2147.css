@@ -82,12 +82,14 @@ gpsgate-remote-app .gps-gate th {
     text-transform: capitalize
 } */
 
-integration-test {
+
+/* integration-test {
     @import"https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"
-}
+} */
 
 integration-test .card {
     background-color: red;
+    width: 100% !important;
 }
 
 
